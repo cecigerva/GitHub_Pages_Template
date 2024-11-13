@@ -1,4 +1,4 @@
-# (UPDATE IN README.md) Project Title
+# (UPDATE IN README.md) My Project
 
 (UPDATE IN README.md)
 Briefly describe the purpose/result(s) of your project, the skills you applied, and the Apply AI program.
